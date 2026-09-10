@@ -1,4 +1,3 @@
-# ICPC-Assiut-University-Community
 # Codeforces Problem Solving 🚀
 
 This repository contains my solutions to problems solved on **Codeforces**.

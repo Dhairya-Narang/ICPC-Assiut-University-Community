@@ -9,8 +9,8 @@ I am following the **ICPC Assiut University Community** sheets and contests to i
 | Practice | Status |
 |---|---|
 | ✅ Sheet #1 — Data Types & Conditions | Completed |
-| 🔄 Contest #1 | In Progress |
-| ⏳ Contest #2 | Upcoming |
+| 🔄 Contest #1 | Completed |
+| ⏳ Contest #2 | In Progress |
 | ⏳ Sheet #2 — Loops | Upcoming |
 | ⏳ Sheet #3 — Arrays | Upcoming |
 | ⏳ Contest #3.1 | Upcoming |

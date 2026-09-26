@@ -9,7 +9,6 @@ int main(){
         int n,temp;
         scanf("%d",&n);
         int A_array[n];
-        int low_no=100000;
         for(int i=0;i<n;i++){
             scanf("%d",&A_array[i]);
             

@@ -11,7 +11,7 @@ I am following the **ICPC Assiut University Community** sheets and contests to i
 | ✅ Sheet #1 — Data Types & Conditions | Completed |
 | 🔄 Contest #1 | Completed |
 | ⏳ Contest #2 | Completed |
-| ⏳ Sheet #2 — Loops | In Progress |
+| ⏳ Sheet #2 — Loops | Completed |
 | ⏳ Sheet #3 — Arrays | In Progress |
 | ⏳ Contest #3.1 | Upcoming |
 | ⏳ Sheet #4 — Strings | Upcoming |

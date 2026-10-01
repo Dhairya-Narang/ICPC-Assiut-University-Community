@@ -13,7 +13,7 @@ I am following the **ICPC Assiut University Community** sheets and contests to i
 | ⏳ Contest #2 | Completed |
 | ⏳ Sheet #2 — Loops | Completed |
 | ⏳ Sheet #3 — Arrays | In Progress |
-| ⏳ Contest #3.1 | Upcoming |
+| ⏳ Contest #3.1 | In Progress |
 | ⏳ Sheet #4 — Strings | Upcoming |
 | ⏳ Sheet #5 — Functions | Upcoming |
 | ⏳ Sheet #6 — Math & Geometry | Upcoming |

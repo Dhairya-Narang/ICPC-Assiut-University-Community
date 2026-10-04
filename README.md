@@ -12,8 +12,8 @@ I am following the **ICPC Assiut University Community** sheets and contests to i
 | 🔄 Contest #1 | Completed |
 | ⏳ Contest #2 | Completed |
 | ⏳ Sheet #2 — Loops | Completed |
-| ⏳ Sheet #3 — Arrays | In Progress |
-| ⏳ Contest #3.1 | In Progress |
+| ⏳ Sheet #3 — Arrays | Completed |
+| ⏳ Contest #3.1 | Completed |
 | ⏳ Sheet #4 — Strings | In Progress |
 | ⏳ Sheet #5 — Functions | Upcoming |
 | ⏳ Sheet #6 — Math & Geometry | Upcoming |
